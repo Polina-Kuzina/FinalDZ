@@ -1,0 +1,15 @@
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\bin\Debug\net6.0\FinalDZ.exe
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\bin\Debug\net6.0\FinalDZ.deps.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\bin\Debug\net6.0\FinalDZ.runtimeconfig.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\bin\Debug\net6.0\FinalDZ.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\bin\Debug\net6.0\ref\FinalDZ.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\bin\Debug\net6.0\FinalDZ.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.csproj.AssemblyReference.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.AssemblyInfoInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.AssemblyInfo.cs
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.csproj.CoreCompileInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\ref\FinalDZ.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\FinalDZ\obj\Debug\net6.0\FinalDZ.genruntimeconfig.cache
