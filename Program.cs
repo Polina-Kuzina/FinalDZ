@@ -15,3 +15,19 @@ for (int i = 0; i < text.Length; i++)
 {
     if (text[i].Length < 4) sizeNewArray++;
 }
+if (sizeNewArray > 0)
+{
+    string[] text2 = new string[sizeNewArray];
+    int k = 0;
+    for (int i = 0; i < text.Length; i++)
+    {
+        if (text[i].Length < 4)
+        {
+            text2[k] = text[i];
+            k++;
+        }
+    }
+    Console.WriteLine("Массив с количеством символов меньше или равно 3:");
+    PrintArray(text2);
+}
+else Console.WriteLine("В исходном массиве нет нужных элементов");
